@@ -23,17 +23,17 @@ pip install -r requirements.txt
 ## Run the main script
 python main.py
 
-##Usage
-1- Run the application.
-2- Show your hand in front of the webcam.
-3- Use the interactive palettes to select colors or the eraser.
-4- Start drawing with your finger!
+## Usage
+- Run the application.
+- Show your hand in front of the webcam.
+- Use the interactive palettes to select colors or the eraser.
+- Start drawing with your finger!
 
-#Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-#Author Information:
+# Author Information:
 - Name: Arman Neyestani
 - GitHub: A8neyestani
 - Email: A8neyestani@protonmail.com
