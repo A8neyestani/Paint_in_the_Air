@@ -19,8 +19,7 @@ git clone https://github.com/A8neyestani/Paint_in_the_Air.git
 ## Navigate to the directory
 cd Paint_in_the_Air
 
-## Install required libraries 
-pip install -r requirements.txt
+
 
 ## Run the main script
 python main.py
