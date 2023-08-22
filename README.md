@@ -1,16 +1,40 @@
 # Paint_in_the_Air
 # Interactive Drawing with Hand Detection
 
-Interactive Drawing with Hand Detection enables users to draw on the screen by tracking their hand movements. Leveraging the power of computer vision, this application provides a unique drawing experience, allowing for palette selection and interactive erasing using hand gestures.
+This repository contains a unique project that leverages hand detection techniques to facilitate interactive drawing. Users can draw lines by tracking their hand movements and interact with palette selections to change the drawing color or use an eraser.
 
-![Demo Image](./demo-image.jpg) <!-- Make sure to upload a demo image and reference it here -->
 
-## 📌 Features
-- **Hand Detection**: Utilizing the custom handTrackingModule for precise hand tracking.
-- **Interactive Drawing**: Draw in real-time with feedback directly from the webcam feed.
-- **Palette Selection**: Seamlessly switch between different colors or use the eraser by selecting the on-screen palettes.
 
-## 🔧 Installation & Setup
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/A8neyestani/Paint_in_the_Air.git
+## Features
+
+- **Hand Detection**: Detects user hand in real-time and tracks movements.
+- **Interactive Palette**: Users can select different colors or the eraser tool.
+- **Real-time Drawing**: Draw on the screen using finger movements.
+
+## Clone this repository
+git clone https://github.com/A8neyestani/Paint_in_the_Air.git
+
+## Navigate to the directory
+cd Paint_in_the_Air
+
+## Install required libraries 
+pip install -r requirements.txt
+
+## Run the main script
+python main.py
+
+##Usage
+Run the application.
+Show your hand in front of the webcam.
+Use the interactive palettes to select colors or the eraser.
+Start drawing with your finger!
+
+#Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+#Author Information:
+Name: Arman Neyestani
+GitHub: A8neyestani
+Email: A8neyestani@protonmail.com
+
