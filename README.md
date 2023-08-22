@@ -2,7 +2,7 @@
 # Interactive Drawing with Hand Detection
 
 This repository contains a unique project that leverages hand detection techniques to facilitate interactive drawing. Users can draw lines by tracking their hand movements and interact with palette selections to change the drawing color or use an eraser.
-
+![Demo Image](Demo.gif)
 
 
 ## Features
