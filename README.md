@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python main.py
 
 ## Usage
-- Run the application.
+- Run the Paint_in_Air.py.
 - Show your hand in front of the webcam.
 - Use the interactive palettes to select colors or the eraser.
 - Start drawing with your finger!
